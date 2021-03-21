@@ -26,13 +26,13 @@ College financial datasets are large and scattered all over the place. Moreover,
 We analysed extensive datasets and built a powerful, easy-to-use interactive tool in less than 24 hours! This GUI allows you to dynamically view and download/save plots as you wish
 
 ## What we learned
-Group work and efficient communication
-How Shiny works between the UI and Server 
-Interactive Plotly Graphs 
+* Group work and efficient communication 
+* How Shiny works between the UI and Server  
+* Interactive Plotly Graphs  
 
 ## What's next for Student Loan Dashboard
 
 > We will work on using our linear model to make predictions on financial aid packages offered by institutions in the coming years. Given some of the linear models did not fit the data well, more complex models need to be considered.  
 
-> Given we have more than 3,000 university data collected, it might be worth classifying different types of universities prior to running models, such as separating private and public schools. 
+> Given we have data from 3000+ universities, it might be worth classifying them based on ownership (Public vs Private) prior to running models as this parameter is a key driver of the number of financial aid packages offered by the universities. 
  
