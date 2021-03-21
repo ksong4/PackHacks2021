@@ -1,6 +1,6 @@
 # TITLE IV DASHBOARD
 
-> * For PackHacks 2021 by Kuncheng Song, Caizhi Huang and Preethi Thunga*
+> *For PackHacks 2021 by Kuncheng Song, Caizhi Huang and Preethi Thunga*
 
 ## Inspiration
 
