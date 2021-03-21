@@ -16,7 +16,9 @@ R Shiny is a great tool to build an interactive web app with strong data visuali
 
 We use a linear model to capture the rate of change of each loan type across all years. We reported the OLS estimate of the change rate coefficient, the standard error of the estimate, p-value of the estimate, and the R-square. This data can be used to make predictions about upcoming years. 
 
+## What it looks like
 
+![titleIV](https://github.com/ksong4/PackHacks2021/master/titleIV.jpeg)
 ## Challenges we ran into
 
 College financial datasets are large and scattered all over the place. Moreover, these files have been formatted differently over time. Consolidating this information from several sources to obtain meaningful insights and trends in such a limited time was our biggest challenge. 
