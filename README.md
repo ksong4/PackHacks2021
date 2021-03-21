@@ -2,6 +2,8 @@
 
 > *For PackHacks 2021 by Kuncheng Song, Caizhi Huang and Preethi Thunga*
 
+Link to our GUI: https://skcapp.shinyapps.io/PackHacks2021/
+
 ## Inspiration
 
 Whether you’re looking to avoid debt, give your parents a break or get better returns on your investment, choosing college based on price is important. Currently, there is no comprehensive tool to help guide students in their decision making process. Our goal is to present all this information to students and families in a user-friendly way and help navigate college finances. 
