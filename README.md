@@ -1,4 +1,4 @@
-# TITLE IV DASHBOARD
+# TITLE IV DASHBOARD : Navigating College Finances
 
 > *For PackHacks 2021 by Kuncheng Song, Caizhi Huang and Preethi Thunga*
 
