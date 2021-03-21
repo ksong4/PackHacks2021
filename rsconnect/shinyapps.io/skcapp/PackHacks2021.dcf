@@ -1,0 +1,12 @@
+name: PackHacks2021
+title: PackHacks2021
+username:
+account: skcapp
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3826873
+bundleId: 4376243
+url: https://skcapp.shinyapps.io/PackHacks2021/
+when: 1616339796.56787
+asMultiple: FALSE
+asStatic: FALSE
