@@ -12,13 +12,14 @@ If you’re looking to graduate from college with little to no debt, we are here
 
 ## How we built it
 
-R Shiny is a great tool to build an interactive web app with strong data visualization techniques and statistical modeling functions. We built our dashboard on R Shiny using student loan data from the Federal Student Aid (https://studentaid.gov/) and US Department of Education (https://collegecost.ed.gov/affordability) websites. We present this information at multiple levels (university, state and national ) for the last five years. 
+R Shiny is a great tool to build interactive web apps with strong data visualization techniques and statistical modeling functions. We built our dashboard on R Shiny using student loan data from the Federal Student Aid (https://studentaid.gov/) and US Department of Education (https://collegecost.ed.gov/affordability) websites. We present this information at multiple levels (university, state and national ) for the last five years. 
 
 We use a linear model to capture the rate of change of each loan type across all years. We reported the OLS estimate of the change rate coefficient, the standard error of the estimate, p-value of the estimate, and the R-square. This data can be used to make predictions about upcoming years. 
 
 ## What it looks like
 
-![titleIV](https://github.com/ksong4/PackHacks2021/blob/main/titleIV.jpeg)
+![titleIV](https://github.com/ksong4/PackHacks2021/blob/main/titleIV.jpeg) 
+
 ## Challenges we ran into
 
 College financial datasets are large and scattered all over the place. Moreover, these files have been formatted differently over time. Consolidating this information from several sources to obtain meaningful insights and trends in such a limited time was our biggest challenge. 
