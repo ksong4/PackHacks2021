@@ -18,7 +18,7 @@ We use a linear model to capture the rate of change of each loan type across all
 
 ## What it looks like
 
-![titleIV](https://github.com/ksong4/PackHacks2021/master/titleIV.jpeg)
+![titleIV](https://github.com/ksong4/PackHacks2021/blob/main/titleIV.jpeg)
 ## Challenges we ran into
 
 College financial datasets are large and scattered all over the place. Moreover, these files have been formatted differently over time. Consolidating this information from several sources to obtain meaningful insights and trends in such a limited time was our biggest challenge. 
