@@ -32,6 +32,7 @@ Interactive Plotly Graphs
 
 ## What's next for Student Loan Dashboard
 
-We will work on using our linear model to make predictions on financial aid packages offered by institutions in the coming years. Given some of the linear models did not fit the data well, more complex models need to be considered
-Given we have more than 3,000 university data collected, it might be worth classifying different types of universities prior to running models, such as separating private and public schools
-Might be worth investing into another dashboard that looks on the national level. 
+> We will work on using our linear model to make predictions on financial aid packages offered by institutions in the coming years. Given some of the linear models did not fit the data well, more complex models need to be considered.  
+
+> Given we have more than 3,000 university data collected, it might be worth classifying different types of universities prior to running models, such as separating private and public schools. 
+ 
