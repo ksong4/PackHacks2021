@@ -21,7 +21,7 @@ We use a linear model to capture the rate of change of each loan type across all
 
 ## What it looks like
 
-![titleIV](./www/titleIV.jpeg) 
+<img src="www/titleIV.jpeg" class="img-responsive" alt=""> </div>
 
 ## Challenges we ran into
 
