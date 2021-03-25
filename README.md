@@ -21,7 +21,7 @@ We use a linear model to capture the rate of change of each loan type across all
 
 ## What it looks like
 
-![titleIV](https://github.com/ksong4/PackHacks2021/blob/main/titleIV.jpeg) 
+![titleIV](./www/titleIV.jpeg) 
 
 ## Challenges we ran into
 
