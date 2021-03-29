@@ -1,6 +1,6 @@
 # TITLE IV Program Dashboard : Helping Students Navigate College Finances
 
-> *For PackHacks 2021 by Kuncheng Song, Caizhi Huang and Preethi Thunga*
+> *For PackHacks 2021 by Caizhi Huang, Kuncheng Song and, Preethi Thunga*
 
 Link to our GUI: https://skcapp.shinyapps.io/PackHacks2021/  
 Link to our demo: https://www.youtube.com/watch?v=X9PegGe0pDc
